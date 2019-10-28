@@ -8,10 +8,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="T" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -20,10 +24,17 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\elenk\IdeaProjects\T\src\main\resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -37,23 +48,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.task1.task1">
-    <configuration name="task1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C:/Users/elenk/IdeaProjects/T/src/main/resources/group.xml">
+    <configuration name="C:/Users/elenk/IdeaProjects/T/src/main/resources/group.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="T" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.task1" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/group.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task1.task1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/elenk/IdeaProjects/T/src/main/resources/suite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="T" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/suite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="T" />
       <extension name="coverage">
         <pattern>
@@ -63,8 +79,42 @@
       </extension>
       <option name="PACKAGE_NAME" value="test" />
       <option name="MAIN_CLASS_NAME" value="test.task1" />
-      <option name="METHOD_NAME" value="task1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task1.Count" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="T" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.task1" />
+      <option name="METHOD_NAME" value="Count" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="T" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test2" />
+      <option name="MAIN_CLASS_NAME" value="test2.task2" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -73,8 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.task1.task1" />
-        <item itemvalue="JUnit.task1" />
+        <item itemvalue="TestNG.C:/Users/elenk/IdeaProjects/T/src/main/resources/group.xml" />
+        <item itemvalue="TestNG.task1" />
+        <item itemvalue="TestNG.C:/Users/elenk/IdeaProjects/T/src/main/resources/suite.xml" />
+        <item itemvalue="TestNG.task2" />
+        <item itemvalue="TestNG.task1.Count" />
       </list>
     </recent_temporary>
   </component>
@@ -90,6 +143,11 @@
       <updated>1571682483511</updated>
       <workItem from="1571682491051" duration="8413000" />
       <workItem from="1571691811327" duration="46000" />
+      <workItem from="1571762725215" duration="987000" />
+      <workItem from="1571894055373" duration="3607000" />
+      <workItem from="1572110795110" duration="16120000" />
+      <workItem from="1572194016834" duration="17446000" />
+      <workItem from="1572250269123" duration="5594000" />
     </task>
     <servers />
   </component>
