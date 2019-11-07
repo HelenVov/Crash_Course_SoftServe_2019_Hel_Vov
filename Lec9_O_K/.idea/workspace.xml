@@ -51,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Lec_9_O_Kh_UserCreate">
+  <component name="RunManager" selected="TestNG.Lec_9_O_Kh_UserLogin">
     <configuration name="Lec_9_O_Kh_UserCreate" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Lec9_O_K" />
       <option name="PACKAGE_NAME" value="" />
@@ -99,9 +99,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Lec_9_O_Kh_UserLogin" />
         <item itemvalue="TestNG.Lec_9_O_Kh_UserCreate" />
         <item itemvalue="TestNG.Lec_9_O_Kh_Users" />
-        <item itemvalue="TestNG.Lec_9_O_Kh_UserLogin" />
         <item itemvalue="TestNG.Lec_9_O_Kh_UserCreate.getRequestExampleTest" />
       </list>
     </recent_temporary>
@@ -117,6 +117,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573127091001</updated>
       <workItem from="1573127096234" duration="17408000" />
+      <workItem from="1573153400985" duration="156000" />
     </task>
     <servers />
   </component>

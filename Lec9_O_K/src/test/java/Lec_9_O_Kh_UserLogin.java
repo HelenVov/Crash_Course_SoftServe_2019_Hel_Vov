@@ -11,7 +11,7 @@ import static io.restassured.RestAssured.given;
     public class Lec_9_O_Kh_UserLogin {
 
         String path = "https://petstore.swagger.io/v2/user";
-        String pathUser = "/Helen1";
+        String pathUser = "/Helen";
         String contType = "Content-Type";
         String json = "application/json";
         String pathLog="/login?username=\"Helen\"&password=\"helen11\"";
